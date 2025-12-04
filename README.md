@@ -41,3 +41,4 @@ git commit -m ""  # Создание коммита
 git branch        # Работа с ветками
 git checkout      # Переключение веток
 git push          # Отправка изменений на GitHub
+https://arnoldbekov.github.io/learn_branches/
